@@ -1,0 +1,24 @@
+{
+  "name": "solana-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Upasana-Roy/Solana-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Upasana-Roy/Solana-workshop/issues"
+  },
+  "homepage": "https://github.com/Upasana-Roy/Solana-workshop#readme",
+  "dependencies": {
+    "cli": "^1.0.1",
+    "one-liner-joke": "^1.2.2"
+  }
+}
